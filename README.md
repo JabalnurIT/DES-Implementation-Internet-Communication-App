@@ -59,7 +59,7 @@ This Python-based chat application leverages Socket.IO for real-time communicati
 ## Customization
 
 - **DES Encryption Settings:**
-  - The DES encryption settings, including key generation and message encryption/decryption, are configured in the `server/des.py` and `server/server.py` files.
+  - The DES encryption settings, including key generation and message encryption/decryption, are configured in the `client/des.py` and `client/client.py` files.
 
 - **Socket.IO Event Handling:**
   - Customize Socket.IO event handlers in the `server/server.py` and `client/client.py` files based on your application's requirements.
